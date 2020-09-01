@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RiskView">
+        <!-- 滚动球的颜色 -->
+        <attr name="_ballColor" format="color" />
+        <!-- 分段线的颜色 -->
+        <attr name="_lineColor" format="color" />
+    </declare-styleable>
+</resources>
