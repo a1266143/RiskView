@@ -19,5 +19,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.a1266143:RiskView:[![](https://jitpack.io/v/a1266143/RiskView.svg)](https://jitpack.io/#a1266143/RiskView)'
+	        implementation 'com.github.a1266143:RiskView:TAG'
 	}
+
+Version : [![](https://jitpack.io/v/a1266143/RiskView.svg)](https://jitpack.io/#a1266143/RiskView)
